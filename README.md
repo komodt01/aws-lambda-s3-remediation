@@ -1,0 +1,3 @@
+# Lambda + EventBridge + S3 Remediation Workflow
+
+This project demonstrates an automated security remediation workflow using AWS Lambda, EventBridge, and S3...
